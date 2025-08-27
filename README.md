@@ -3,7 +3,7 @@
 This repository contains my project report on **Modelling Slow granular flow**, guided by **Prof. Prabhu R Nott, Indian Institute of Science(IISc), Bengaluru** (May–July 2025).
 
 ## Report
-- [📄 Download Report (PDF)](./reports/MSR_Report.pdf)
+- [📄 Download Report (PDF)](./Final_Report_SRFP25.pdf)
 
 # Overview:
 - Implemented a **non-local constitutive model** to characterize granular flow behavior in the intermediate regime.  
